@@ -1,2 +1,2 @@
 # flowman
-small videogame made in python for school project
+small videogame made in python for highschool project
